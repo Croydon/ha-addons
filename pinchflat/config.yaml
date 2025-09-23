@@ -1,5 +1,5 @@
 name: Pinchflat
-version: 2025.6.6.0
+version: v2025.6.6
 slug: pinchflat
 description: Pinchflat Add-on
 url: "https://github.com/Croydon/ha-addon-pinchflat"
@@ -18,4 +18,4 @@ ports:
   8945/tcp: 8945
 ports_description:
   8945/tcp: Pinchflat web interface
-image: ghcr.io/kieraneglin/pinchflat:v2025.6.6
+image: ghcr.io/kieraneglin/pinchflat
