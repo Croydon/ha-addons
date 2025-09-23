@@ -1,0 +1,23 @@
+name: Pinchflat
+version: 2025.6.6.0
+slug: pinchflat
+description: Pinchflat Add-on
+url: "https://github.com/Croydon/ha-addon-pinchflat"
+webui: http://[HOST]:[PORT:8945]
+arch:
+  - aarch64
+init: false
+map:
+  - addon_config:rw
+  - share:rw
+  - media:rw
+options:
+  TZ: "Europe/Berlin"
+schema:
+  TZ: str
+video: true
+ports:
+  8945: 8945
+ports_description:
+  8096/tcp: Pinchflat web interface
+image: ghcr.io/kieraneglin/pinchflat:v2025.6.6c
