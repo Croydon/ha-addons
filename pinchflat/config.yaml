@@ -8,9 +8,16 @@ arch:
   - aarch64
 init: false
 map:
-  - addon_config:rw
-  - share:rw
-  - media:rw
+  - type: addon_config
+    read_only: false
+  - type: share
+    read_only: false
+  - type: media
+    read_only: false
+    path: /downloads
+  - type: addon_config
+    read_only: false
+    path: /config
 options:
   TZ: "Europe/Berlin"
 schema:
