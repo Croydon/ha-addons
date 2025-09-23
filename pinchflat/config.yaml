@@ -11,10 +11,8 @@ map:
   - addon_config:rw
   - share:rw
   - media:rw
-options:
+environment:
   TZ: "Europe/Berlin"
-schema:
-  TZ: str
 video: true
 ports:
   8945/tcp: 8945
