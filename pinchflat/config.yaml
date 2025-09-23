@@ -17,7 +17,7 @@ schema:
   TZ: str
 video: true
 ports:
-  8945: 8945
+  8945/tcp: 8945
 ports_description:
-  8945: Pinchflat web interface
+  8945/tcp: Pinchflat web interface
 image: ghcr.io/kieraneglin/pinchflat:v2025.6.6
