@@ -20,8 +20,12 @@ map:
     path: /config
 options:
   TZ: "Europe/Berlin"
+  BASIC_AUTH_USERNAME: ""
+  BASIC_AUTH_PASSWORD: ""
 schema:
-  TZ: str
+  TZ: "str;description: Timezone;example: Europe/Berlin"
+  BASIC_AUTH_USERNAME: "str;description: Basic auth username (leave blank to disable);example: user"
+  BASIC_AUTH_PASSWORD: "str;description: Basic auth password (leave blank to disable);example: password"
 video: true
 ports:
   8945/tcp: 8945
