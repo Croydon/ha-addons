@@ -1,1 +1,2 @@
-FROM ghcr.io/kieraneglin/pinchflat:v2025.6.6
+ARG BUILD_FROM
+FROM $BUILD_FROM
