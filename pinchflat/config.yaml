@@ -31,4 +31,3 @@ ports:
   8945/tcp: 8945
 ports_description:
   8945/tcp: Pinchflat web interface
-image: ghcr.io/kieraneglin/pinchflat
