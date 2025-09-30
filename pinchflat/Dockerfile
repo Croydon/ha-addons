@@ -1,1 +1,1 @@
-FROM ghcr.io/kieraneglin/pinchflat:v2025.9.26
+FROM ghcr.io/kieraneglin/pinchflat:v2025.6.6
