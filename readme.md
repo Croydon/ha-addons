@@ -1,11 +1,13 @@
 # Croydon's Home Assistant Add-ons
 
+[![Add this repository to your Home Assistant instance](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Croydon/ha-addons)
+
+
 ## Pinchflat
 
 > Pinchflat is a self-hosted app for downloading YouTube content built using yt-dlp.
 
 Upstream license: [AGPL-3.0](https://github.com/kieraneglin/pinchflat/blob/master/LICENSE)
-
 
 
 ## License
