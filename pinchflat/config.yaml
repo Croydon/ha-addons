@@ -2,7 +2,7 @@ name: Pinchflat
 version: v2025.6.6
 slug: pinchflat
 description: Pinchflat Add-on
-url: "https://github.com/Croydon/ha-addon-pinchflat"
+url: "https://github.com/Croydon/ha-addons"
 webui: http://[HOST]:[PORT:8945]
 arch:
   - aarch64
