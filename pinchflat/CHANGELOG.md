@@ -1,6 +1,11 @@
 # Pinchflat HA Add-on Changelog
 
 
+## 2025.9.26.05 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
+
+  * Fix container build
+
+
 ## 2025.9.26.04 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
 
   * Debug Release
