@@ -1,6 +1,11 @@
 # Pinchflat HA Add-on Changelog
 
 
+## 2025.9.26.04 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
+
+  * Debug Release
+
+
 ## 2025.9.26.03 (Pinchflat v2025.6.6 modified [+ Deno, FFmpeg Update])
 
   * Update FFmpeg https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2026-01-08-14-24/ffmpeg-N-122390-gaf6a1dd0b2-linuxarm64-gpl.tar.xz
