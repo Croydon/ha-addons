@@ -1,5 +1,9 @@
 # Pinchflat HA Add-on Changelog
 
+## 2025.9.26.01 (Pinchflat v2025.6.6 modified [+ Deno])
+
+  * Install Deno to container downstream until upstream makes a new useable release
+
 
 ## 2025.9.26.00 (Pinchflat v2025.6.6)
 
